@@ -53,6 +53,6 @@ Azaar Meza, Luis Roberto. (2015). "Simulación de estructuras cristalinas y de f
 
   ```bash
   Luis Roberto Azaar Meza
-  e-mail 1: luisro5@hotmail.com
+  e-mail 1: robertoazaar@gmail.com
   e-mail 2: rigel1357@yahoo.com
   ```
